@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: ibsearchtrack/starimage
+        image: ibsearchtrack/websiteimagehello2
         ports:
         - containerPort: 80
